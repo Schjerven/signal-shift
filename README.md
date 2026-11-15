@@ -12,9 +12,11 @@ Collect energy, charge SHIFT and avoid colliding with your own trail. Cross any 
 
 ## Release status
 
-Version: **V18.1 Creator Edition**.
+Version: **V18.2 — Pause UI cleanup (Creator Edition)**.
 
-The approved game HTML is pending upload. GitHub Pages must be enabled and the public URL verified before the LinkedIn launch. Expected address after deployment: https://schjerven.github.io/signal-shift/
+The updated, tested `index.html` is committed on `main` and GitHub Pages has been configured. The public URL is **https://schjerven.github.io/signal-shift/**. Browser-based QA has passed; the newly deployed URL and real Samsung touch controls still require final checking before linking it from LinkedIn.
+
+V18.2 keeps the existing game rules, music, controls and expanded layout. During pause only the **central FORTSETT** button is visible; the other pause controls return when play resumes.
 
 ## Credits and rights
 
